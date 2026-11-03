@@ -43,7 +43,7 @@
       "paths": ["styles", "lang"]
     }
   },
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com",
+  "manifest": "https://raw.githubusercontent.com/gabiliond-collab/MarathonUI/refs/heads/main/module.json",
+  "download": "https://github.com/releases/latest/download/module.zip"
 }
